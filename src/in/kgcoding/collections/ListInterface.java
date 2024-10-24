@@ -24,6 +24,5 @@ public class ListInterface {
         for(String str: strList){
             System.out.println(str);
         }
-        
     }
 }
